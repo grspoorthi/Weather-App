@@ -19,7 +19,7 @@ A simple and elegant weather application built using HTML, CSS, and JavaScript. 
 
 > CSS3
 
-> JavaScript (Vanilla)
+> JavaScript
 
 > Font Awesome for icons
 
